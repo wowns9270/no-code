@@ -31,6 +31,10 @@ int main()
         {
             std::cout <<"What a waste of food! The fridge can not hold so much milk" << std::endl;
         }
+        while(true)
+        {
+            std::cout <<"wait" << std::endl;
+        }
     }
     else
     {

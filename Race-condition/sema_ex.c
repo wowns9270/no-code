@@ -5,7 +5,6 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <semaphore.h>
-
 int main(int argc, char * argv[]) {
     int fd;
     int VALUE=1;
